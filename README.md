@@ -1,2 +1,2 @@
-# javaDataStructure
-code for logic building
+# practicejdk8
+data structure project
